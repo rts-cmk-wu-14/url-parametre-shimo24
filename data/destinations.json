@@ -1,0 +1,116 @@
+{
+    "destinations": [
+        {
+            "id": 1,
+            "image": "andalucia.webp",
+            "destination": "Spain",
+            "title": "Full home/apartment in Andalucia, Spanien",
+            "subtitle": "the beautiful mountain range 'Sierra de las Nieves",
+            "text": "Offering all the comforts of home with the luxury of a 5 star hotelroom - the airstream is an oasis of luxury in the middle of Nature. Modelled on the original 1930's classic, she's the perfect combination of retro nostalgia and contemporary design. The interior is sleek and stylish, and is equipped with everything you could possibly need to enjoy your glamping experience to the full.",
+            "facilities": [
+                "Free parking on the premises",
+                "Kitchen",
+                "Wi-Fi",
+                "Shampoo"
+            ]
+        },
+        {
+            "id": 2,
+            "image": "ecuador.webp",
+            "destination": "Ecuador",
+            "title": "Apartment with big terasse",
+            "subtitle": "the beautiful mountain range 'Sierra de las Nieves",
+            "text": "Offering all the comforts of home with the luxury of a 5 star hotelroom - the airstream is an oasis of luxury in the middle of Nature. Modelled on the original 1930's classic, she's the perfect combination of retro nostalgia and contemporary design. The interior is sleek and stylish, and is equipped with everything you could possibly need to enjoy your glamping experience to the full.",
+            "facilities": [
+                "Garage",
+                "Kitchen",
+                "Wi-Fi",
+                "TV"
+            ]
+        },
+        {
+            "id": 3,
+            "image": "greece.jpg",
+            "destination": "Greece",
+            "title": "Full home/apartment in Athens, Spanien",
+            "subtitle": "the beautiful mountain range 'Sierra de las Nieves",
+            "text": "Offering all the comforts of home with the luxury of a 5 star hotelroom - the airstream is an oasis of luxury in the middle of Nature. Modelled on the original 1930's classic, she's the perfect combination of retro nostalgia and contemporary design. The interior is sleek and stylish, and is equipped with everything you could possibly need to enjoy your glamping experience to the full.",
+            "facilities": [
+                "Free parking on the premises",
+                "Kitchen",
+                "Wi-Fi",
+                "Shampoo"
+            ]
+        },
+        {
+            "id": 4,
+            "image": "norway.webp",
+            "destination": "Norway",
+            "title": "Full home/apartment in Trondheim, Norway",
+            "subtitle": "Enjoy the fantastic northern lights",
+            "text": "Offering all the comforts of home with the luxury of a 5 star hotelroom - the airstream is an oasis of luxury in the middle of Nature. Modelled on the original 1930's classic, she's the perfect combination of retro nostalgia and contemporary design. The interior is sleek and stylish, and is equipped with everything you could possibly need to enjoy your glamping experience to the full.",
+            "facilities": [
+                "Iron/ironing board",
+                "Kitchen",
+                "Wi-Fi",
+                "Fireplace"
+            ]
+        },
+        {
+            "id": 5,
+            "image": "pigraitaly.jpg",
+            "destination": "Italy",
+            "title": "Full home/apartment in Pigra, Italien",
+            "subtitle": "Beatiful spot close to the Como Lake",
+            "text": "Navona romantic Suite is bright apartment of 60 mq, on the third floor of an important historical building of 1400, with privileged views of Saint Peter's dome and overlooking the basilica of San Giovanni dei Fio(SENSITIVE CONTENTS HIDDEN) with frescoes by Michelangelo and Raphael. The apartment has a double bedroom with charming ceiling with original beams, panoramic living room with fireplace and sofa bed for two people; equipped kitchen, bathroom with shower and window. Comfortable and equipped with every comfort, Navona romantic suite is the ideal location for your stay in the heart of ancient Rome. At 30 mt there are the bus stop of the main bus routes to all directions. Walking distance to the embassies of France and Spain",
+            "facilities": [
+                "Free parking on the premises",
+                "Kitchen",
+                "Wi-Fi",
+                "Shampoo"
+            ]
+        },
+        {
+            "id": 6,
+            "image": "rome.webp",
+            "destination": "Italy",
+            "title": "Full home/apartment in Rome, Italy",
+            "subtitle": "PERFECT FOR A ROMANTIC HOLIDAY IN THE CENTER OF ROME",
+            "text": "Offering all the comforts of home with the luxury of a 5 star hotelroom - the airstream is an oasis of luxury in the middle of Nature. Modelled on the original 1930's classic, she's the perfect combination of retro nostalgia and contemporary design. The interior is sleek and stylish, and is equipped with everything you could possibly need to enjoy your glamping experience to the full. Facilities include: fully fitted kitchen with oven/hob/microwave/fridge-freezer; shower room with wc & washbasin; bedroom with cosy double bed; dining area; living area with comfy sofas and flat-screen TV/DVD; i-pod/i-phone docking station, CD player with surround-sound stereo; Wi-Fi internet access; and air con and heating. But perhaps the 'cherry on the cake' is the outdoor plunge pool - the ultimate in glamorous camping!! Laying in the pool or next to it on a warm summer's night as you gaze at the stars is a memory which is sure to remain..",
+            "facilities": [
+                "Free parking on the premises",
+                "Kitchen",
+                "Wi-Fi",
+                "Shampoo"
+            ]
+        },
+        {
+            "id": 7,
+            "image": "santorini.webp",
+            "destination": "Greece",
+            "title": "Full home/apartment in Santorini, Greece",
+            "subtitle": "the beautiful mountain range 'Sierra de las Nieves",
+            "text": "Offering all the comforts of home with the luxury of a 5 star hotelroom - the airstream is an oasis of luxury in the middle of Nature. Modelled on the original 1930's classic, she's the perfect combination of retro nostalgia and contemporary design. The interior is sleek and stylish, and is equipped with everything you could possibly need to enjoy your glamping experience to the full. Facilities include: fully fitted kitchen with oven/hob/microwave/fridge-freezer; shower room with wc & washbasin; bedroom with cosy double bed; dining area; living area with comfy sofas and flat-screen TV/DVD; i-pod/i-phone docking station, CD player with surround-sound stereo; Wi-Fi internet access; and air con and heating. But perhaps the 'cherry on the cake' is the outdoor plunge pool - the ultimate in glamorous camping!! Laying in the pool or next to it on a warm summer's night as you gaze at the stars is a memory which is sure to remain..",
+            "facilities": [
+                "Free parking on the premises",
+                "Kitchen",
+                "Wi-Fi",
+                "Shampoo"
+            ]
+        },
+        {
+            "id": 8,
+            "image": "spain.jpg",
+            "destination": "Spain",
+            "title": "Full home/apartment in Alozaina, Spanien",
+            "subtitle": "the beautiful mountain range 'Sierra de las Nieves",
+            "text": "Offering all the comforts of home with the luxury of a 5 star hotelroom - the airstream is an oasis of luxury in the middle of Nature. Modelled on the original 1930's classic, she's the perfect combination of retro nostalgia and contemporary design. The interior is sleek and stylish, and is equipped with everything you could possibly need to enjoy your glamping experience to the full. Facilities include: fully fitted kitchen with oven/hob/microwave/fridge-freezer; shower room with wc & washbasin; bedroom with cosy double bed; dining area; living area with comfy sofas and flat-screen TV/DVD; i-pod/i-phone docking station, CD player with surround-sound stereo; Wi-Fi internet access; and air con and heating. But perhaps the 'cherry on the cake' is the outdoor plunge pool - the ultimate in glamorous camping!! Laying in the pool or next to it on a warm summer's night as you gaze at the stars is a memory which is sure to remain..",
+            "facilities": [
+                "Free parking on the premises",
+                "Kitchen",
+                "Wi-Fi",
+                "Shampoo"
+            ]
+        }
+    ]
+}
