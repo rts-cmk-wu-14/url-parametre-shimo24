@@ -1,0 +1,76 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.card {
+  background: #eee;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-footer {
+  background: #d9f8ff; /* light blue */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 12px;
+}
+
+/* ---- Like butonu ---- */
+.like-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 999px;
+}
+
+.like-btn:focus-visible {
+  outline: 2px solid #000;
+  outline-offset: 2px;
+}
+
+.like-btn svg {
+  width: 20px;
+  height: 20px;
+  stroke: #111;
+  fill: transparent;   /* boş kalp */
+  transition: transform .15s ease, fill .15s ease;
+}
+
+.like-btn.liked svg {
+  fill: #e63946;       /* dolu kalp */
+  stroke: #e63946;
+  transform: scale(1.05);
+}
+
+.more-link {
+  text-decoration: none;
+  color: #111;
+  font-weight: 600;
+  letter-spacing: .02em;
+}
+
+/* küçük ekranlar */
+@media (max-width: 900px) {
+  .grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 520px) {
+  .grid { grid-template-columns: 1fr; }
+}
